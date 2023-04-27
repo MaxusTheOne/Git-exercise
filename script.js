@@ -9,7 +9,7 @@ function start() {
   console.log("linje igen");
   console.log("linje igen igen");
   console.log("linje igen igen igen");
-  console.log("tis");
-  console.log("din mor");
-  console.log("hek");
+  console.log("1 gang");
+  console.log("2. gang");
+  console.log("3. gang");
 }
