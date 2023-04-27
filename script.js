@@ -9,4 +9,6 @@ function start() {
   console.log("linje igen");
   console.log("linje igen igen");
   console.log("linje igen igen igen");
+  console.log("tis");
+  console.log("din mor");
 }
