@@ -11,4 +11,5 @@ function start() {
   console.log("linje igen igen igen");
   console.log("tis");
   console.log("din mor");
+  console.log("hek");
 }
