@@ -3,9 +3,10 @@ body {
   color: blue;
 }
 
-#text{
+#text {
   background-color: aqua;
   height: 50%;
   width: 50%;
   position: absolute;
+  border-radius: 40%;
 }
