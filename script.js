@@ -7,4 +7,5 @@ function start() {
   console.log("Ny linje");
 
   console.log("Angery");
+  console.log("more angery");
 }
