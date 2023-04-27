@@ -2,3 +2,10 @@ body {
   background-color: wheat;
   color: blue;
 }
+
+#text{
+  background-color: aqua;
+  height: 50%;
+  width: 50%;
+  position: absolute;
+}
