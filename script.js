@@ -7,4 +7,5 @@ function start() {
   console.log("Ny linje");
 
   console.log("linje igen");
+  console.log("linje igen igen");
 }
